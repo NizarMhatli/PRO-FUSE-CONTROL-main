@@ -1,14 +1,15 @@
-# PRO-EDGE-CONTROL
-Package to control the Vanguard PRO-EDGE screw driver 
+# PRO-FUSE-CONTROL
+Package to control the Vanguard PRO-FUSE digital industrial screw driver  
+hardware : https://www.hp-vanguard.com/products/2015101425/
 
 # Introduction: 
 
-Package to control the PRO-EDGE advance Z screw driver.
+Package to control the PRO-FUSE screw driver.
 This package contains different commands to control the screw driver remotely
 
 
 # Set-up: 
-1- First power on the PRO-EDGE 
+1- First power on the PRO-FUSE 
 2- Enter Setting menu 
 3- Enter the Network menu 
 4- In the Network menu set up the IP address , Subnet and Gateway in our case we are using: 
@@ -70,6 +71,6 @@ This package contains different commands to control the screw driver remotely
 
 -To test the program just run the SCrew_pa_test.py program 
 
--To  use on different programs just import PRO-EDGE-SOFT and import the command you need to run 
+-To  use on different programs just import PRO-FUSE-SOFT and import the command you need to run 
 
 
